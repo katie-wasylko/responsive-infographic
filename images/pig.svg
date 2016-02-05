@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="576px" height="576px" viewBox="0 0 576 576" enable-background="new 0 0 576 576" xml:space="preserve">
+<filter  filterUnits="objectBoundingBox" height="130%" id="AI_Shadow_2" width="140%" x="-15%" y="-15%">
+	<feGaussianBlur  in="SourceAlpha" result="blur" stdDeviation="6"></feGaussianBlur>
+	<feOffset  dx="8" dy="8" in="blur" result="offsetBlurredAlpha"></feOffset>
+	<feMerge>
+		<feMergeNode  in="offsetBlurredAlpha"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<g filter="url(#AI_Shadow_2)">
+	
+		<rect x="88.6" y="175.5" transform="matrix(0.9995 3.268772e-02 -3.268772e-02 0.9995 9.9611 -8.8849)" fill="#FFFFFF" width="376.2" height="249.5"/>
+	<line fill="none" stroke="#000000" stroke-width="2.446" stroke-miterlimit="10" x1="277.9" y1="180.2" x2="269.7" y2="429.6"/>
+	<line fill="none" stroke="#000000" stroke-width="2.446" stroke-miterlimit="10" x1="88.6" y1="298.8" x2="464.6" y2="311.1"/>
+	<g>
+		<g>
+			
+				<path fill="#DD8AA6" stroke="#000000" stroke-width="2.446" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M346.1,309.9c1-21.3-29.2-40.1-67.5-41.9c-19.2-0.9-36.7,2.6-49.6,9c-1.9-3.7-5.3-8-11.4-12.6c0,0,1,5.2,0.9,10.6
+				c-0.1,0-0.2,0-0.3,0c-15.7-0.7-29.2,9.6-31.7,23.7l-8.3-0.4c-2.3-0.1-4.3,3.2-4.5,7.3c-0.2,4.1,1.5,7.6,3.8,7.7l10.5,0.5
+				c4.2,10.4,14.8,18.1,27.4,18.7c3.7,0.2,7.2-0.3,10.6-1.2c3.7,2.3,7.9,4.5,12.5,6.3L237,368l2.9,0.1l2.4-2.2l2.2,2.4l2.9,0.1
+				l1.3-27.4c8,2.2,16.9,3.7,26.2,4.1c12.1,0.6,23.6-0.6,33.6-3.2l-1.4,29.3l2.9,0.1l2.4-2.2l2.2,2.4l2.9,0.1l1.6-33.2
+				C335.1,332.3,345.5,322,346.1,309.9z"/>
+		</g>
+		<path stroke="#DD8AA6" stroke-width="2.446" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M279.4,274c-13.3-0.6-24.1,0.2-24.2,1.8l-0.3,6.9c0.1-1.6,10.9-2.4,24.2-1.8s24,2.5,23.9,4.1l0.3-6.9
+			C303.4,276.4,292.7,274.6,279.4,274z"/>
+		
+			<path fill="none" stroke="#000000" stroke-width="2.446" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M344.3,298.1c2-0.2,3.9-0.7,5.8-1.5c1-0.5,2-1.1,2.7-2c0.6-0.9,0.8-2.3,0-3.2c-0.7-0.8-1.9-1-2.9-1c-0.4,0-0.8,0.1-1,0.4
+			c-0.3,0.5,0,1.1,0.4,1.6c2.8,2.9,7.3,3.9,11.1,2.5"/>
+	</g>
+	
+		<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 115.845 197.4924)" fill="#DA1C5C" font-family="'AvenirNext-Bold'" font-size="24.4836px">$54 Billion</text>
+	
+		<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 309.3528 203.8215)" fill="#DA1C5C" font-family="'AvenirNext-Bold'" font-size="24.4836px">$22 Billion</text>
+	
+		<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 130.3969 411.2932)" fill="#DA1C5C" font-family="'AvenirNext-Bold'" font-size="24.4836px">$4,841</text>
+	
+		<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 287.6848 416.4377)" fill="#DA1C5C" font-family="'AvenirNext-Bold'" font-size="24.4836px">$841-$1,378</text>
+	<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 100.3435 228.7709)"><tspan x="0" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">T</tspan><tspan x="7.9" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">he potential amount o</tspan><tspan x="152" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="0" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">money in the US a</tspan><tspan x="117.8" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="121.7" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">fected</tspan><tspan x="0" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">by 2009 f</tspan><tspan x="60.6" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">r</tspan><tspan x="65.5" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">auds</tspan><tspan x="96.9" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">.</tspan></text>
+	<polygon opacity="0.49" fill="#F1EDA2" points="75,271.5 75.6,276.8 78.1,273.6 161.3,169.9 163.8,166.8 158.5,167.4 157.9,162.1 
+		152.6,162.7 152.1,157.4 146.8,158 146.2,152.7 140.9,153.3 140.4,148 135.1,148.6 134.5,143.5 132.1,146.5 48.9,250.2 46.5,253.2 
+		51.6,252.7 52.2,258 57.5,257.4 58.1,262.7 63.3,262.1 63.9,267.3 69.2,266.8 69.8,272 	"/>
+	<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 300.6367 235.3229)"><tspan x="0" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">Businesses worldwide</tspan><tspan x="143.2" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">,</tspan><tspan x="1.5" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px"> lose y</tspan><tspan x="42.4" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">e</tspan><tspan x="50.5" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">arly to identity </tspan><tspan x="113.6" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">the</tspan><tspan x="134.7" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="138.7" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">t</tspan><tspan x="143.2" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">.</tspan></text>
+	<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 96.977 331.7002)"><tspan x="0" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">T</tspan><tspan x="7.9" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">he ave</tspan><tspan x="50.7" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">r</tspan><tspan x="55.7" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">age</tspan><tspan x="0" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">amount ta</tspan><tspan x="65.8" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">k</tspan><tspan x="72.8" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">en f</tspan><tspan x="97.1" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">r</tspan><tspan x="102" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">om</tspan><tspan x="0" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">e</tspan><tspan x="8.1" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">ach identity the</tspan><tspan x="108.1" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="112.1" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">t </tspan><tspan x="0" y="51.4" font-family="'AvenirNext-Regular'" font-size="14.2821px">victim </tspan></text>
+	<text transform="matrix(0.9995 3.268985e-02 -3.268985e-02 0.9995 380.2663 336.2026)"><tspan x="0" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">T</tspan><tspan x="7.9" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">he out o</tspan><tspan x="61.8" y="0" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="-54.9" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">poc</tspan><tspan x="-29.9" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">k</tspan><tspan x="-22.9" y="17.1" font-family="'AvenirNext-Regular'" font-size="14.2821px">et cost for the</tspan><tspan x="-39.3" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">victim to </tspan><tspan x="19.5" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">r</tspan><tspan x="24.4" y="34.3" font-family="'AvenirNext-Regular'" font-size="14.2821px">esolve</tspan><tspan x="-76.8" y="51.4" font-family="'AvenirNext-Regular'" font-size="14.2821px">identity the</tspan><tspan x="-3.5" y="51.4" font-family="'AvenirNext-Regular'" font-size="14.2821px">f</tspan><tspan x="0.5" y="51.4" font-family="'AvenirNext-Regular'" font-size="14.2821px">t damage </tspan></text>
+	<polygon opacity="0.49" fill="#F1EDA2" points="489.7,259.4 495,260 492.5,256.9 409.1,153.3 406.6,150.2 406,155.5 400.8,154.9 
+		400.2,160.2 394.9,159.6 394.4,164.9 389.1,164.3 388.5,169.6 383.2,169 382.7,174.3 377.6,173.8 380,176.7 463.4,280.3 
+		465.8,283.3 466.3,278.2 471.6,278.8 472.2,273.5 477.5,274.1 478,268.8 483.3,269.4 483.9,264.1 489.1,264.7 	"/>
+	<g>
+		<path fill="#9B9DA0" stroke="#000000" stroke-width="2.0403" stroke-miterlimit="10" d="M266.5,262.8c2.5,2.7,7.1,4.6,12.3,4.9
+			c5.2,0.2,9.9-1.3,12.7-3.7l2.4,0.1l0.2-5.2c0.2-5.2-6.2-9.8-14.5-10.1c-8.2-0.4-15.1,3.6-15.3,8.8l-0.2,5.2L266.5,262.8z"/>
+		
+			<ellipse transform="matrix(4.538641e-02 -0.999 0.999 4.538641e-02 3.6703 529.7169)" fill="#6D6E71" stroke="#000000" stroke-width="2.0403" stroke-miterlimit="10" cx="279" cy="262.9" rx="9.5" ry="14.9"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

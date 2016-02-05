@@ -110,3 +110,11 @@ h2 {
   left: 22%;
   line-height: 110%;
 }
+
+.pig {
+  margin: 0;
+  padding: 0;
+  top: 40%;
+  position: absolute;
+
+}
