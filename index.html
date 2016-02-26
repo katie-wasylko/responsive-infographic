@@ -17,8 +17,8 @@
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="6"/>
       <feOffset dx="8" dy="8" in="blur" result="offsetBlurredAlpha"/>
       <feMerge>
-        <femergenode in="offsetBlurredAlpha">
-        <femergenode in="SourceGraphic">
+        <feMergeNode in="offsetBlurredAlpha"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <g filter="url(#AI_Shadow_2)">
