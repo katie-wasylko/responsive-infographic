@@ -17,8 +17,8 @@
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="6"/>
       <feOffset dx="8" dy="8" in="blur" result="offsetBlurredAlpha"/>
       <feMerge>
-        <feMergeNode> in="offsetBlurredAlpha"</feMergeNode>
-        <feMergeNode> in="SourceGraphic"</feMergeNode>
+        <feMergeNode in="offsetBlurredAlpha">
+        <feMergeNode in="SourceGraphic">
       </feMerge>
     </filter>
     <g filter="url(#AI_Shadow_2)">
@@ -65,8 +65,8 @@
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="6"/>
       <feOffset dx="8" dy="8" in="blur" result="offsetBlurredAlpha"/>
       <feMerge>
-        <feMergeNode> in="offsetBlurredAlpha"</feMergeNode>
-        <feMergeNode> in="SourceGraphic"</feMergeNode>
+        <feMergeNode in="offsetBlurredAlpha"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <path transform="rotate(-2.144 272.806 288.69)" fill="#FFF" d="M124.6 166.5H421v244.4H124.6z" filter="url(#a)"/>
