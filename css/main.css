@@ -12,7 +12,7 @@ html {
   text-size-adjust: 100%;
 
   color: #efefef;
-  font-family: 'Architects Daughter', cursive;
+  font-family: "Architects Daughter", cursive;
   font-size: 100%;
   line-height: 1.5;
 }
@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background-image: url(../images/paper.svg);
+  background-image: url("../images/paper.svg");
   background-size: cover;
   background-repeat: repeat-y;
   margin: 0;
@@ -125,5 +125,5 @@ h2 {
   top: 60%;
   position: absolute;
   width: 70%;
-  left: 20%
+  left: 20%;
 }
