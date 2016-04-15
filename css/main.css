@@ -122,8 +122,12 @@ h2 {
 .graph {
   margin: 0;
   padding: 0;
-  top: 60%;
+  top: 80%;
   position: absolute;
   width: 70%;
   left: 20%;
+}
+
+.coin {
+  
 }
