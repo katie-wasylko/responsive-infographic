@@ -127,3 +127,9 @@ h2 {
   width: 70%;
   left: 20%;
 }
+
+.white {
+  fill:none;
+  stroke:#000000;
+  stroke-width:11;stroke-miterlimit:10;}
+}
