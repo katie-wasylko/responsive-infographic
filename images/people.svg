@@ -1,157 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+	 width="800px" height="800px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#231F20;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#231F20;stroke:#231F20;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#231F20;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
 <g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M363,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C390,331.6,362.2,331.1,363,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			363,385.9 363,421.9 345,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="363" y1="421.9" x2="381" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="336" y1="403.9" x2="390" y2="403.9"/>
+		<path class="st0" d="M363,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S362.2,331.1,363,331.9z"/>
+		<polyline class="st0" points="363,385.9 363,421.9 345,439.9 		"/>
+		<line class="st0" x1="363" y1="421.9" x2="381" y2="439.9"/>
+		<line class="st0" x1="336" y1="403.9" x2="390" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M435,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C462,331.6,434.2,331.1,435,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			435,385.9 435,421.9 417,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="435" y1="421.9" x2="453" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="408" y1="403.9" x2="462" y2="403.9"/>
+		<path class="st0" d="M435,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S434.2,331.1,435,331.9z"/>
+		<polyline class="st0" points="435,385.9 435,421.9 417,439.9 		"/>
+		<line class="st0" x1="435" y1="421.9" x2="453" y2="439.9"/>
+		<line class="st0" x1="408" y1="403.9" x2="462" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M507,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C534,331.6,506.2,331.1,507,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			507,385.9 507,421.9 489,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="507" y1="421.9" x2="525" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="480" y1="403.9" x2="534" y2="403.9"/>
+		<path class="st0" d="M507,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S506.2,331.1,507,331.9z"/>
+		<polyline class="st0" points="507,385.9 507,421.9 489,439.9 		"/>
+		<line class="st0" x1="507" y1="421.9" x2="525" y2="439.9"/>
+		<line class="st0" x1="480" y1="403.9" x2="534" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M579,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C606,331.6,578.2,331.1,579,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			579,385.9 579,421.9 561,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="579" y1="421.9" x2="597" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="552" y1="403.9" x2="606" y2="403.9"/>
+		<path class="st0" d="M579,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S578.2,331.1,579,331.9z"/>
+		<polyline class="st0" points="579,385.9 579,421.9 561,439.9 		"/>
+		<line class="st0" x1="579" y1="421.9" x2="597" y2="439.9"/>
+		<line class="st0" x1="552" y1="403.9" x2="606" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M651,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C678,331.6,650.2,331.1,651,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			651,385.9 651,421.9 633,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="651" y1="421.9" x2="669" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="624" y1="403.9" x2="678" y2="403.9"/>
+		<path class="st0" d="M651,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S650.2,331.1,651,331.9z"/>
+		<polyline class="st0" points="651,385.9 651,421.9 633,439.9 		"/>
+		<line class="st0" x1="651" y1="421.9" x2="669" y2="439.9"/>
+		<line class="st0" x1="624" y1="403.9" x2="678" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M723,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C750,331.6,722.2,331.1,723,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			723,385.9 723,421.9 705,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="723" y1="421.9" x2="741" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="696" y1="403.9" x2="750" y2="403.9"/>
+		<path class="st0" d="M723,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S722.2,331.1,723,331.9z"/>
+		<polyline class="st0" points="723,385.9 723,421.9 705,439.9 		"/>
+		<line class="st0" x1="723" y1="421.9" x2="741" y2="439.9"/>
+		<line class="st0" x1="696" y1="403.9" x2="750" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M147,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C174,331.6,146.2,331.1,147,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			147,385.9 147,421.9 129,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="147" y1="421.9" x2="165" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="120" y1="403.9" x2="174" y2="403.9"/>
+		<path class="st0" d="M147,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S146.2,331.1,147,331.9z"/>
+		<polyline class="st0" points="147,385.9 147,421.9 129,439.9 		"/>
+		<line class="st0" x1="147" y1="421.9" x2="165" y2="439.9"/>
+		<line class="st0" x1="120" y1="403.9" x2="174" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M219,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C246,331.6,218.2,331.1,219,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			219,385.9 219,421.9 201,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="219" y1="421.9" x2="237" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="403.9" x2="246" y2="403.9"/>
+		<path class="st0" d="M219,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S218.2,331.1,219,331.9z"/>
+		<polyline class="st0" points="219,385.9 219,421.9 201,439.9 		"/>
+		<line class="st0" x1="219" y1="421.9" x2="237" y2="439.9"/>
+		<line class="st0" x1="192" y1="403.9" x2="246" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M291,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C318,331.6,290.2,331.1,291,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			291,385.9 291,421.9 273,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="291" y1="421.9" x2="309" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="264" y1="403.9" x2="318" y2="403.9"/>
+		<path class="st0" d="M291,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S290.2,331.1,291,331.9z"/>
+		<polyline class="st0" points="291,385.9 291,421.9 273,439.9 		"/>
+		<line class="st0" x1="291" y1="421.9" x2="309" y2="439.9"/>
+		<line class="st0" x1="264" y1="403.9" x2="318" y2="403.9"/>
 	</g>
 	<g>
-		
-			<path fill="#231F20" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M75,331.9c0,0-27-0.3-27,27c0,27.3,27,27,27,27s27,0.3,27-27C102,331.6,74.2,331.1,75,331.9z"/>
-		
-			<polyline fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			75,385.9 75,421.9 57,439.9 		"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="75" y1="421.9" x2="93" y2="439.9"/>
-		
-			<line fill="#FFFFFF" stroke="#231F20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48" y1="403.9" x2="102" y2="403.9"/>
+		<path class="st1" d="M75,331.9c0,0-27-0.3-27,27s27,27,27,27s27,0.3,27-27S74.2,331.1,75,331.9z"/>
+		<polyline class="st2" points="75,385.9 75,421.9 57,439.9 		"/>
+		<line class="st0" x1="75" y1="421.9" x2="93" y2="439.9"/>
+		<line class="st0" x1="48" y1="403.9" x2="102" y2="403.9"/>
 	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
 </g>
 </svg>
