@@ -87,6 +87,18 @@ h2 {
   left: 24%;
 }
 
+.smoke {
+  fill: grey;
+  position: absolute;
+  transform: rotate(0deg);
+  transition: all 300ms;
+}
+
+.smoke:hover {
+  z-index: 1000;
+  transform: rotate(-3deg);
+}
+
 .calendarfifty {
   color: black;
   font-weight: bolder;
